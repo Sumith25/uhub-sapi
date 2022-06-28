@@ -1,0 +1,16 @@
+http:
+  port: "8081"
+  
+api:
+  id: "17938163"
+
+database:
+  uhub:
+    host: "oracle-58801-0.cloudclusters.net"
+    port: "15406"
+    user: "uhubdevuser"
+    password: ""
+    instance: "XE"
+    
+username: "mule_advance01"
+password: "Rajpoot@2514"
